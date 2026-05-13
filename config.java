@@ -1,6 +1,7 @@
-public class Main {
+public class config {
     public static void main(String[] args) {
-        System.out.println("main1");
+        System.out.println("config");
+        System.out.println("Version 2");
     }
     
 }
